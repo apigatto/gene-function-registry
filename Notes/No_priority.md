@@ -1,7 +1,6 @@
 **Genes with no specified priority**
 
 ACCase_Yao_You_2020.yml:priority: ~
-ACS10b_Wu_Kang_2019.yml:priority: ~
 ACS_Yao_You_2020.yml:priority: ~
 ACT2-7_Yim_Wong_2015.yml:priority: ~
 AGL8a_Wu_Kang_2019.yml:priority: ~
