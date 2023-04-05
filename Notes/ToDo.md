@@ -2,8 +2,7 @@
 
 *Priority Assessment*
 
-    ACS10a_Wu_Kang_2019.yml
-    ACS10b_Wu_Kang_2019.yml
+ ```ACS10b_Wu_Kang_2019.yml```
 
 *Missing Info*
 
