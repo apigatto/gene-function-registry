@@ -6,6 +6,4 @@ Experimental Evidence (knockouts, mutants): Yes; see "Soybean Transformation, Cr
 
 Gene Name and Locus: Yes
 
-
-
 Score: 5
