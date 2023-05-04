@@ -1,30 +1,5 @@
 **Genes with no specified priority**
 
-ACCase_Yao_You_2020.yml:priority: ~
-ACS_Yao_You_2020.yml:priority: ~
-ACT2-7_Yim_Wong_2015.yml:priority: ~
-AGL8a_Wu_Kang_2019.yml:priority: ~
-AGL8b_Wu_Kang_2019.yml:priority: ~
-AGL8c_Wu_Kang_2019.yml:priority: ~
-AGL8d_Wu_Kang_2019.yml:priority: ~
-AP1c_Liu_Jiang_2018.yml:priority: ~
-AP3a_Wu_Kang_2019.yml:priority: ~
-AP3b_Wu_Kang_2019.yml:priority: ~
-B3_Yao_You_2020.yml:priority: ~
-CHX1_Qi_Li_2014.yml:priority: ~
-COL10a_Wu_Price_2014.yml:priority: ~
-COL10b_Wu_Price_2014.yml:priority: ~
-COL11a_Wu_Price_2014.yml:priority: ~
-COL11b_Wu_Price_2014.yml:priority: ~
-COL12a_Wu_Price_2014.yml:priority: ~
-COL13a_Wu_Price_2014.yml:priority: ~
-COL13b_Wu_Price_2014.yml:priority: ~
-COL14a_Wu_Price_2014.yml:priority: ~
-COL1a_Wu_Kang_2019.yml:priority: ~
-COL1b_Wu_Kang_2019.yml:priority: ~
-COL2a_Wu_Kang_2019.yml:priority: ~
-COL3a_Wu_Price_2014.yml:priority: ~
-COL3b_Wu_Price_2014.yml:priority: ~
 COL4a_Wu_Price_2014.yml:priority: ~
 COL4b_Wu_Kang_2019.yml:priority: ~
 COL5a_Wu_Price_2014.yml:priority: ~

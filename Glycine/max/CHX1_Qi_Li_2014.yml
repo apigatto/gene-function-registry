@@ -1,6 +1,6 @@
 ---
 identifier: CHX1_Qi_Li_2014
-priority: ~
+priority: 5
 scientific_name: Glycine max
 scientific_name_abbrev: glyma
 ta1id: 3847
@@ -11,7 +11,7 @@ locus_ID: Glyma.03g171700
 annotation_name: Wm82.gnm2.ann1
 evidence code: ~
 method_description: ~
-trait_synopsis: ~
+trait_synopsis: "confers salt tolerance"
 trait_dscription_full: ~
 with_or_from: ~
 pub_pmid: "25004933"
