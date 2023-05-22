@@ -1,3 +1,8 @@
+
+
+If gene is referenced from another paper add (Author, Author, doi)
+
+
 **Journal Rankings (0=best, 3=worst)**
 
 0     Cell

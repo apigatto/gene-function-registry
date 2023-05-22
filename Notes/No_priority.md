@@ -1,6 +1,6 @@
 **Genes with no specified priority**
 
-COL4a_Wu_Price_2014.yml:priority: ~
+COL4a_Wu_Price_2014.yml:priority:
 COL4b_Wu_Kang_2019.yml:priority: ~
 COL5a_Wu_Price_2014.yml:priority: ~
 COL5b_Wu_Price_2014.yml:priority: ~

@@ -1,0 +1,25 @@
+**Genes that were given a priority ranking**
+
+ACS10b_Wu_Kang_2019
+ACCase_Yao_You_2020
+ACS_Yao_You_2020
+ACT2-7_Yim_Wong_2015
+AGL8a_Wu_Kang_2019
+AGL8b_Wu_Kang_2019
+AGL8c_Wu_Kang_2019
+AGL8d_Wu_Kang_2019
+AP1c_Liu_Jiang_2018
+B3_Yao_You_2020
+CHX1_Qi_Li_2014
+COL10a_Wu_Price_2014
+COL10b_Wu_Price_2014
+COL11a_Wu_Price_2014
+COL11b_Wu_Price_2014
+COL13a_Wu_Price_2014
+COL13b_Wu_Price_2014
+COL14a_Wu_Price_2014
+COL1a_Wu_Kang_2019
+COL1b_Wu_Kang_2019
+COL2a_Wu_Kang_2019
+COL3a_Wu_Price_2014
+COL3b_Wu_Price_2014
